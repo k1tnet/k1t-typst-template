@@ -15,7 +15,7 @@ cargo install --git https://github.com/typst/typst --locked typst-cli
 
 コンパイル: `typst compile ./sample.typ ./sample.pdf`
 
-監視: `typst watch sample.typ sample.pdf`
+監視: `typst watch ./sample.typ ./sample.pdf`
 
 ## チャプター分割
 
